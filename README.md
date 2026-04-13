@@ -1,5 +1,5 @@
 # add-commit-push
-
+this code was assembled using Patrick O'Connor's example code. and the aid of Claude Code.
 ```
 alias g5='cd /Users/chrisdominguez/Lewis/cpsc-20000/sprint-5'
 
